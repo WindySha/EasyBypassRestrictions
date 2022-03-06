@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 public class EasyBypass {
 
     static {
-        System.loadLibrary("easybypass");
+        System.loadLibrary("easyBypass");
     }
 
     public static void bypassHiddenApiRestriction() {
